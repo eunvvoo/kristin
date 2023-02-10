@@ -1,0 +1,7 @@
+material/__pycache__
+material/wandb
+
+sole/__pycache__
+sole/wandb
+
+*.pt
