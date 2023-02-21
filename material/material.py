@@ -25,8 +25,8 @@ class MyDataset(Dataset):
         material_dict = {
         'leather': 0,
         'mesh/knit': 1,
-        'suede': 2,
-        'nylon': 3
+        'nylon': 2,
+        'suede': 3
         }
 
         with open(image_ids, 'r') as f:
